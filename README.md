@@ -1,18 +1,16 @@
-# Nome do projeto
+# Trabalho 5 - COVID Dashboard ASP.NET Core
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+ O Objetivo deste trabalho é desenvolver uma pequena aplicação usando ASP.NET MVC, inspirado no seguinte <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">monitor de COVID🔗</a>.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Henrique Freire dos Santos ([henfreire](https://github.com/henfreire))
+* João Américo Martins Caiafa de Andrade ([Leusd](https://github.com/Leusd))
+* Maria Verônica Santos Soares ([mveronicasoares](https://github.com/mveronicasoares))
 
-## Professores responsáveis
+## Professor responsável
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Hugo Bastos de Paula ([hugodepaula](https://github.com/hugodepaula))
 
 ## Instruções de utilização
 
