@@ -14,4 +14,4 @@
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Abrir o projeto no Visual Studio 2019 e executar o código por meio da IDE.
