@@ -18,7 +18,11 @@ Por sua vez, o próximo diagrama representa a comunicação entre a View e as cl
   <img src="https://user-images.githubusercontent.com/26631860/96199780-a7058080-0f2e-11eb-8b03-a0fc5cf39454.png">
 </p>
 
-Em termos da obtenção dos países, foi utilizada uma API externa pública disponível na seguinte <a href="http://api.londrinaweb.com.br/PUC/Paisesv2/0/1000">URL🔗</a>. O banco de dados foi construído com a utilização do Entity Framework, criando-se um banco baseado na entidade da aplicação. Essa configuração está presente na classe DashboardCovidContexto.cs (projeto DashboardCovid.Data). Nesse sentido, utilizou-se o SQLite por sua facilidade, registrando um único arquivo para o banco de dados (dashboardCovid.db).
+Em termos da obtenção dos países, foi utilizada uma API externa pública disponível na seguinte <a href="http://api.londrinaweb.com.br/PUC/Paisesv2/0/1000">URL🔗</a>. O banco de dados foi construído com a utilização do Entity Framework, criando-se um banco baseado na entidade da aplicação. Essa configuração está presente na classe DashboardCovidContexto.cs (projeto DashboardCovid.Data). Nesse sentido, utilizou-se o SQLite por sua facilidade, registrando um único arquivo para o banco de dados (dashboardCovid.db). Uma representação da tabela do banco de dados pode ser visualizada abaixo: 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/26631860/96201915-33667200-0f34-11eb-94ec-a1146d1965e8.png">
+ </p>
 
 Ademais, é importante ressaltar o uso da injeção de dependências, utilizada para a gerencia das instâncias das classes do sistema, tornando o uso mais simples. Na classe inicial (Program.cs - projeto DashboardCovid) foi necessário incluir um Factory de serviços, responsável por instanciá-los e entregá-los quando necessário. Nesse mesmo sentido, foram adicionadas configurações na classe Startup.cs (projeto DashboardCovid) para configuração do container da aplicação e injeção de novos serviços, tais como a gestão de configurações do appsettings e o contexto do banco de dados. Por fim, a classe AutoFacExtension (projeto DashboardCovid.Infra.CrossCutting.IoC) obtém os assemblies de cada classe dos projetos Domain e Data e os registra de acordo com as interfaces implementadas em cada uma, assim quando são solicitadas no construtor das classes, as instâncias são injetadas e podem ser utilizadas.
 
