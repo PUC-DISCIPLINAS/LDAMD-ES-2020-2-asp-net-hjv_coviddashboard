@@ -12,4 +12,6 @@ Nesse sentido, estruturou-se o diagrama abaixo a fim de ilustrar as referências
 
 ![image](https://user-images.githubusercontent.com/26631860/96199289-8852ba00-0f2d-11eb-97e9-dd245f7b2da9.png)
 
-Por sua vez, o próximo diagrama representa a comunicação entre a View e as classes de cada um dos projetos mencionados anteriormente. As entidades transferem dados do repositório para o Service, então, os nomes entre as setas representam os tipos de classes que transferem esses dados entre as camadas. Data Transfer Objects (DTOs) transferem dados da classe Service para as Controllers e, por sua vez, as classess Models transferem dados entre as Controllers e as Views. Observe abaixo:
+Por sua vez, o próximo diagrama representa a comunicação entre a View e as classes de cada um dos projetos mencionados anteriormente. As entidades transferem dados do repositório para o Service, então, os nomes entre as setas (em branco internos a uma caixa cinza) representam os tipos de classes que transferem esses dados entre as camadas. Data Transfer Objects (DTOs) transferem dados da classe Service para as Controllers e, por sua vez, as classess Models transferem dados entre as Controllers e as Views. Observe abaixo:
+
+![image](https://user-images.githubusercontent.com/26631860/96199780-a7058080-0f2e-11eb-8b03-a0fc5cf39454.png)
