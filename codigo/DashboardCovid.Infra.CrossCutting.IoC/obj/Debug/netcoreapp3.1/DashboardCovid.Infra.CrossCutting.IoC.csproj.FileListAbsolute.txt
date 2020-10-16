@@ -1,0 +1,16 @@
+C:\projetos\DashboardCovid\DashboardCovid.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.deps.json
+C:\projetos\DashboardCovid\DashboardCovid.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.dll
+C:\projetos\DashboardCovid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\projetos\DashboardCovid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\projetos\DashboardCovid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\projetos\DashboardCovid\DashboardCovid.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.pdb
+C:\projetos\DashboardCovid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.dll
+C:\projetos\DashboardCovid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.pdb
+C:\projetos\dashboard-covid\DashboardCovid.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.deps.json
+C:\projetos\dashboard-covid\DashboardCovid.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.dll
+C:\projetos\dashboard-covid\DashboardCovid.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.pdb
+C:\projetos\dashboard-covid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\projetos\dashboard-covid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\projetos\dashboard-covid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\projetos\dashboard-covid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.dll
+C:\projetos\dashboard-covid\DashboardCovid.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\DashboardCovid.Infra.CrossCutting.IoC.pdb

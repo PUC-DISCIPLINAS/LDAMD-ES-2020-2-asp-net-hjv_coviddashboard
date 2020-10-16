@@ -1,0 +1,44 @@
+C:\projetos\DashboardCovid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.deps.json
+C:\projetos\DashboardCovid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.dll
+C:\projetos\DashboardCovid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.pdb
+C:\projetos\DashboardCovid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Shared.dll
+C:\projetos\DashboardCovid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Shared.pdb
+C:\projetos\DashboardCovid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csprojAssemblyReference.cache
+C:\projetos\DashboardCovid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.AssemblyInfoInputs.cache
+C:\projetos\DashboardCovid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.AssemblyInfo.cs
+C:\projetos\DashboardCovid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csproj.CopyComplete
+C:\projetos\DashboardCovid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.dll
+C:\projetos\DashboardCovid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.pdb
+C:\projetos\DashboardCovid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.runtimeconfig.json
+C:\projetos\DashboardCovid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.runtimeconfig.dev.json
+C:\projetos\DashboardCovid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\dashboardCovid.db
+C:\projetos\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\dashboardCovid.db
+C:\projetos\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.deps.json
+C:\projetos\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.runtimeconfig.json
+C:\projetos\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.runtimeconfig.dev.json
+C:\projetos\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.dll
+C:\projetos\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.pdb
+C:\projetos\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Shared.dll
+C:\projetos\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Shared.pdb
+C:\projetos\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csprojAssemblyReference.cache
+C:\projetos\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.AssemblyInfoInputs.cache
+C:\projetos\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.AssemblyInfo.cs
+C:\projetos\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csproj.CopyComplete
+C:\projetos\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.dll
+C:\projetos\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.pdb
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\dashboardCovid.db
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.deps.json
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.runtimeconfig.json
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.runtimeconfig.dev.json
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.dll
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.pdb
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Shared.dll
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Shared.pdb
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csprojAssemblyReference.cache
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.AssemblyInfoInputs.cache
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.AssemblyInfo.cs
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csproj.CoreCompileInputs.cache
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csproj.CopyComplete
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.dll
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.pdb
+D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.genruntimeconfig.cache
