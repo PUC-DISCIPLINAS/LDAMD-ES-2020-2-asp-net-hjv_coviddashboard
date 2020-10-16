@@ -9,3 +9,5 @@ A estrutura da aplicação consiste em uma solução (DashboardCovid.sln) formad
 * DashboardCovid.Shared.csproj: Possui classes que auxiliam na configuração da aplicação e são compartilhadas entre os projetos.
 
 Nesse sentido, estruturou-se o diagrama abaixo a fim de ilustrar as referências entre os projetos, explicitando suas comunicações:
+
+![image](https://user-images.githubusercontent.com/26631860/96199289-8852ba00-0f2d-11eb-97e9-dd245f7b2da9.png)
