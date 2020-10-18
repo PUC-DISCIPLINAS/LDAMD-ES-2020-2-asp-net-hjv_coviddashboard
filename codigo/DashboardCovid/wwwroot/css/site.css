@@ -59,13 +59,48 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-}
-.footer {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    background-image: url('../image/planet.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: #ffffff
+} 
+.footer { 
   position: absolute;
   bottom: 0;
   width: 100%;
-  white-space: nowrap;
+  white-space: nowrap;  
   line-height: 60px; /* Vertically center the text there */
+}
+
+.table {
+    /* IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    /* IE 5-7 */
+    filter: alpha(opacity=50);
+    /* Netscape */
+    -moz-opacity: 0.5;
+    /* Safari 1.x */
+    -khtml-opacity: 0.5;
+    /* Good browsers */
+    opacity: 0.9;
+    background-color: #ffffff
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.confirmados {
+    background-color: #ffd800
+}
+
+.recuperados {
+    background-color: #42cf37
+}
+
+.mortes {
+    background-color: #ff0000
 }

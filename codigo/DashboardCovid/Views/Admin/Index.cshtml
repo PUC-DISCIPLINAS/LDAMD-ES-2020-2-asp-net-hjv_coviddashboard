@@ -1,6 +1,6 @@
 ﻿
 @{
-    ViewData["Title"] = "Login para Administrador";
+    ViewData["Title"] = "Login";
 }
 
 <h1>@ViewData["Title"]</h1>
@@ -12,12 +12,13 @@
         <label for="inputSenha">Senha: </label>
         <input type="password" name="senha" class="form-control" id="inputSenha" placeholder="Senha">
     </div>
-    <input class="btn btn-primary" type="submit" value="Entrar" />
+    <input class="btn btn-primary" type="submit" value="Entrar" 
+           style="background-color: #808080; border-color: #808080" />
     @if (ViewData["Autenticado"] != null && !(bool)ViewData["Autenticado"])
     {
         <br>
         <span style="color: red">Dados Inválidos</span>
     }
     <br />
-    <p>Para fins de testes -> Login: admin | Senha: password</p>
+    <p>Login: admin | Senha: admin</p>
 </form>

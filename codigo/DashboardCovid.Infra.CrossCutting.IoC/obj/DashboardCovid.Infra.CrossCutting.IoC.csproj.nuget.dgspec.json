@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\dashboard-covid\\DashboardCovid.Infra.CrossCutting.IoC\\DashboardCovid.Infra.CrossCutting.IoC.csproj": {}
+    "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Infra.CrossCutting.IoC\\DashboardCovid.Infra.CrossCutting.IoC.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\dashboard-covid\\DashboardCovid.Infra.CrossCutting.IoC\\DashboardCovid.Infra.CrossCutting.IoC.csproj": {
+    "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Infra.CrossCutting.IoC\\DashboardCovid.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\dashboard-covid\\DashboardCovid.Infra.CrossCutting.IoC\\DashboardCovid.Infra.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Infra.CrossCutting.IoC\\DashboardCovid.Infra.CrossCutting.IoC.csproj",
         "projectName": "DashboardCovid.Infra.CrossCutting.IoC",
-        "projectPath": "C:\\projetos\\dashboard-covid\\DashboardCovid.Infra.CrossCutting.IoC\\DashboardCovid.Infra.CrossCutting.IoC.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Haddad\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\dashboard-covid\\DashboardCovid.Infra.CrossCutting.IoC\\obj\\",
+        "projectPath": "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Infra.CrossCutting.IoC\\DashboardCovid.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Infra.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel Haddad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

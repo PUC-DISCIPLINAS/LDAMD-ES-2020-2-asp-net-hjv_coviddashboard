@@ -1275,19 +1275,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\joaoc\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Eng. de Software\\2020-02\\Laboratório de Desenvolvimento e Aplicações Distribuídas\\TPs\\TP-AspNet\\Entrega\\dashboard-covid\\DashboardCovid.Data\\DashboardCovid.Data.csproj",
+      "projectUniqueName": "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Data\\DashboardCovid.Data.csproj",
       "projectName": "DashboardCovid.Data",
-      "projectPath": "D:\\Documents\\Eng. de Software\\2020-02\\Laboratório de Desenvolvimento e Aplicações Distribuídas\\TPs\\TP-AspNet\\Entrega\\dashboard-covid\\DashboardCovid.Data\\DashboardCovid.Data.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Eng. de Software\\2020-02\\Laboratório de Desenvolvimento e Aplicações Distribuídas\\TPs\\TP-AspNet\\Entrega\\dashboard-covid\\DashboardCovid.Data\\obj\\",
+      "projectPath": "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Data\\DashboardCovid.Data.csproj",
+      "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1300,8 +1304,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documents\\Eng. de Software\\2020-02\\Laboratório de Desenvolvimento e Aplicações Distribuídas\\TPs\\TP-AspNet\\Entrega\\dashboard-covid\\DashboardCovid.Shared\\DashboardCovid.Shared.csproj": {
-              "projectPath": "D:\\Documents\\Eng. de Software\\2020-02\\Laboratório de Desenvolvimento e Aplicações Distribuídas\\TPs\\TP-AspNet\\Entrega\\dashboard-covid\\DashboardCovid.Shared\\DashboardCovid.Shared.csproj"
+            "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Shared\\DashboardCovid.Shared.csproj": {
+              "projectPath": "C:\\Users\\joaoc\\Desktop\\LAB COVID\\codigo\\DashboardCovid.Shared\\DashboardCovid.Shared.csproj"
             }
           }
         }

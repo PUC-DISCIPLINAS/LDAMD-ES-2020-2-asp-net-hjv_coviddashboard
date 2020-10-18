@@ -13,7 +13,7 @@
 
 </script>
 
-<h1>Controle de Administrador - Dashboard</h1>
+<h1>Gerenciador de Dados - Administrador <img src="~/image/SARS-CoV-2_without_background.png" width="100" height="100" /></h1>
 
 <div class="row">
 
@@ -51,7 +51,7 @@
                 <label for="recuperados">Recuperados</label>
                 <input id="recuperados" name="recuperados" type="number" class="form-control" placeholder="Número de pessoas recuperadas">
             </div>
-            <button type="submit" class="btn btn-primary">Registrar</button>
+            <button type="submit" class="btn btn-primary" style="background-color: #808080; border-color: #808080">Registrar</button>
             @if (ViewData["SucessoCadastro"] != null && (bool)ViewData["SucessoCadastro"])
             {
                 <p>Registrado com sucesso!</p>
@@ -79,9 +79,9 @@
                 <tr>
                     <th scope="col">Id</th>
                     <th scope="col">País</th>
-                    <th scope="col">Casos Confirmados</th>
-                    <th scope="col">Mortes</th>
-                    <th scope="col">Recuperados</th>
+                    <th class="confirmados" scope="col">Casos Confirmados</th>
+                    <th class="recuperados" scope="col">Recuperados</th>
+                    <th class="mortes" scope="col">Mortes</th>
                     <th scope="col">Editar</th>
                     <th scope="col">Remover</th>
                 </tr>
@@ -100,20 +100,20 @@
                         <tr>
                             <th scope="row">@i.InfeccaoPaisId</th>
                             <td>@i.Pais</td>
-                            <td>@i.CasosConfirmados</td>
-                            <td>@i.Mortes</td>
-                            <td>@i.Recuperados</td>
+                            <td class="confirmados">@i.CasosConfirmados</td>
+                            <td class="recuperados">@i.Recuperados</td>
+                            <td class="mortes">@i.Mortes</td>
                             <td>
-                                <button class="btn btn-warning" onclick="editar('@i.Pais', '@i.CasosConfirmados',
+                                <button class="btn btn-warning" style="background-color:#0094ff; border-color:#0094ff"
+                                        onclick="editar('@i.Pais', '@i.CasosConfirmados',
                                                                             '@i.Mortes', '@i.Recuperados')">
-                                    Editar <i class="fas fa-edit"></i>
+                                    Editar
                                 </button>
                             </td>
                             <td>
                                 <form method="POST" action='@Url.Action("Remover", "Admin")'>
                                     <input hidden type="text" name="infeccaoId" value="@i.InfeccaoPaisId">
-                                    <input type="submit" value="Remover" class="btn btn-danger">
-                                    <i class="fas fa-trash"></i>
+                                    <input type="submit" value="Remover" class="btn btn-danger" style="background-color:#ff6a00">
                                 </form>
                             </td>
                         </tr>

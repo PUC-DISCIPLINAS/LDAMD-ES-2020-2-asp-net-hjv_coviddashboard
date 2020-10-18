@@ -42,3 +42,19 @@ D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicaç
 D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.dll
 D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.pdb
 D:\Documents\Eng. de Software\2020-02\Laboratório de Desenvolvimento e Aplicações Distribuídas\TPs\TP-AspNet\Entrega\dashboard-covid\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.genruntimeconfig.cache
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\bin\Debug\netcoreapp3.1\dashboardCovid.db
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.deps.json
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.runtimeconfig.json
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.runtimeconfig.dev.json
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.dll
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Data.pdb
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Shared.dll
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\bin\Debug\netcoreapp3.1\DashboardCovid.Shared.pdb
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csprojAssemblyReference.cache
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.AssemblyInfoInputs.cache
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.AssemblyInfo.cs
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.csproj.CopyComplete
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.dll
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.pdb
+C:\Users\joaoc\Desktop\LAB COVID\codigo\DashboardCovid.Data\obj\Debug\netcoreapp3.1\DashboardCovid.Data.genruntimeconfig.cache

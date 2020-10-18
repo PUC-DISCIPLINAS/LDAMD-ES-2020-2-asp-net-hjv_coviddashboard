@@ -4,21 +4,22 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Dashboard - COVID-19</h1>
+    <h1>
+        COVID Dashboard ASP.NET Core
+        <img src="~/image/SARS-CoV-2_without_background.png" width="100" height="100" />
+    </h1>
     <p>Aplicação construída para a disciplina de Laboratório de Desenvolvimento de Aplicações Móveis e Distribuídas</p>
-    <p>Engenharia de Software - PUC Minas</p>
     <br />
-    <p>Os dados apresentados abaixo podem não estar condizentes com o cenário real.</p>
     <div class="row">
         <div class="col-12">
-            <table class="table table-bordered table-striped mb-0">
+            <table class="table">
                 <thead>
                     <tr>
                         <th scope="col">Id</th>
                         <th scope="col">País</th>
-                        <th scope="col">Casos Confirmados</th>
-                        <th scope="col">Mortes</th>
-                        <th scope="col">Recuperados</th>
+                        <th class="confirmados" scope="col">Casos Confirmados</th>
+                        <th class="recuperados" scope="col">Recuperados</th>
+                        <th class="mortes" scope="col">Mortes</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -35,9 +36,9 @@
                                 <tr>
                                     <th scope="row">@i.InfeccaoPaisId</th>
                                     <td>@i.Pais</td>
-                                    <td>@i.CasosConfirmados</td>
-                                    <td>@i.Mortes</td>
-                                    <td>@i.Recuperados</td>
+                                    <td class="confirmados">@i.CasosConfirmados</td>
+                                    <td class="recuperados">@i.Recuperados</td>
+                                    <td class="mortes">@i.Mortes</td>
                                 </tr>
                             }
                         }
@@ -46,4 +47,6 @@
             </table>
         </div>
     </div>
+    <br />
+    <p>*Os dados apresentados abaixo podem não estar condizentes com o cenário real.</p>
 </div>
