@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\codigo",
-    "\\codigo\\DashboardCovid"
+    "\\codigo\\DashboardCovid",
+    "\\codigo\\DashboardCovid\\Views",
+    "\\codigo\\DashboardCovid\\Views\\Shared",
+    "\\codigo\\DashboardCovid\\wwwroot",
+    "\\codigo\\DashboardCovid\\wwwroot\\css",
+    "\\codigo\\DashboardCovid\\wwwroot\\image"
   ],
   "SelectedNode": "\\codigo\\DashboardCovid.sln",
   "PreviewInSolutionExplorer": false
